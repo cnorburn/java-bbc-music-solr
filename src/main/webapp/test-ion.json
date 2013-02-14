@@ -1,0 +1,55 @@
+{"blocklist":[
+	{
+		"id": "p000abc",
+		"complete_title":"radiohead clip 1",
+		"tag_schemes":
+			{
+			"namespace":"musicbrainz",
+			"tags":
+					[
+						{ "value":"a74b1b7f-71a5-4011-9441-d0b5e4122711" }
+					]
+			},
+	},
+	{
+		"id": "p001abc",
+		"complete_title":"cokto tweens clip",
+		"tag_schemes":
+			{
+			"namespace":"musicbrainz",
+			"tags":
+					[
+						{ "value":"000fc734-b7e1-4a01-92d1-f544261b43f5" }
+					]
+			},
+	},
+	{
+		"id": "p002abc",
+		"complete_title":"loolu and radheed",
+		"tag_schemes":
+			{
+			"namespace":"musicbrainz",
+			"tags":
+					[
+						{ "value":"002e9f6e-13af-4347-83c5-f5ace70e0ec4" },
+						{ "value":"a74b1b7f-71a5-4011-9441-d0b5e4122711" }
+					]
+			},
+	},
+	{
+		"id": "p003abc",
+		"complete_title":"richard hawley clip",
+		"tag_schemes":
+			{
+			"namespace":"musicbrainz",
+			"tags":
+					[
+						{ "value":"006f0783-c5a0-458b-a9da-f8551f7ebe77" }
+					]
+			},
+	},
+
+
+
+]
+}
